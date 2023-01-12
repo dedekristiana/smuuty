@@ -27,10 +27,11 @@ export const Button = () => {
                   Jangan Tunggu Besok, Buktikan Sendiri, Sekarang
                 </p>
               </div>
-              <button class="w-full h-14  px-4 py-2 mt-10 font-bold tracking-wide text-white capitalize transition-colors duration-300 transform bg-green-500 rounded-md hover:bg-green-600 focus:outline-none focus:bg-green-600">
-                <a className="text-xl" href="https://www.payments.biz.id">
-                  BELI SEKARANG(COD)
-                </a>
+              <button
+                href="giveaway.biz.id"
+                class="w-full h-14 text-xl px-4 py-2 mt-10 font-bold tracking-wide text-white capitalize transition-colors duration-300 transform bg-green-500 rounded-md hover:bg-green-600 focus:outline-none focus:bg-green-600"
+              >
+                BELI SEKARANG(COD)
               </button>
             </div>
           </div>
