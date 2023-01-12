@@ -28,7 +28,7 @@ export const Button = () => {
                 </p>
               </div>
               <button
-                href="giveaway.biz.id"
+                href="https://giveaway.biz.id"
                 class="w-full h-14 text-xl px-4 py-2 mt-10 font-bold tracking-wide text-white capitalize transition-colors duration-300 transform bg-green-500 rounded-md hover:bg-green-600 focus:outline-none focus:bg-green-600"
               >
                 BELI SEKARANG(COD)
